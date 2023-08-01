@@ -183,3 +183,11 @@ a {
 }
 
 /* FOOTER */
+
+footer {
+  background-color: #1f2937;
+  text-align: center;
+  padding: 32px 0;
+  color: #e5e7eb;
+  font-size: 18px;
+}
