@@ -151,3 +151,35 @@ a {
   font-size: 24px;
   text-align: right;
 }
+/* ACTION */
+.action-wrapper {
+  max-width: 1200px;
+  background-color: #3882f6;
+  color: #f9faf8;
+  margin: 128px auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 48px 0;
+  border-radius: 6px;
+}
+
+.action__title {
+  font-size: 32px;
+}
+
+.action__text {
+  font-size: 20px;
+}
+
+.action__btn {
+  border: #f9faf8 2px solid;
+  color: #f9faf8;
+  border-radius: 6px;
+  background-color: #3882f6;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 6px 32px;
+}
+
+/* FOOTER */
